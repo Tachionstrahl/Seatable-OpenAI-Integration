@@ -1,7 +1,5 @@
 # Seatable OpenAI Integration
-<img src="assets/seatable.png" alt="Seatable logo" width="48"/>
-<img src="assets/bidirectional.png" alt="Bidirectional" width="48"/>
-<img src="assets/openai.svg" alt="OpenAI logo" width="48"/>
+<img src="assets/seatable.png" alt="Seatable logo" width="48"/><img src="assets/bidirectional.png" alt="Bidirectional" width="48"/><img src="assets/openai.svg" alt="OpenAI logo" width="48"/>
 
 ## Overview
 This repository demonstrates the seamless integration of the OpenAI API within Seatable, enabling the exchange of prompts with ChatGPT.

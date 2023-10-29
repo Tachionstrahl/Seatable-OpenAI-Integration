@@ -34,8 +34,9 @@ Each row contains a unique **name** entry. The **Action** column houses a button
 3. The script requires some customizations for seamless operation. Refer to the provided instructions.
 4. Introduce the following columns:
    - **Name** (type: text)
-   - **Meaning** (type: text)
+   - **Meaning** (type: formatted text)
    - **Action** (type: button, action: Execute the Python script)
+5. Press a button to automatically receive the meaning of the corresponding name.
 
 ## Attribution
 - `bidirectional.png` by DinosoftLabs

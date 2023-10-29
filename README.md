@@ -11,11 +11,15 @@ Key features:
 ## Example Usage
 Consider a table with three essential columns:
 
-1. **Name**
-2. **Meaning**
-3. **Action**
+| Name | Meaning | Action  |
+|------|---------|---------|
+| Bob  |         | [Button] |
+| Anna |         | [Button] |
+| Joe  |         | [Button] |
 
-Each row contains a unique entry. The **Action** column houses a button. When activated, a Python script is executed. This script retrieves the **name** from the corresponding row, transmits a predefined prompt to OpenAI with the name, and finally stores the response in the designated **meaning** field.
+
+Each row contains a unique **name** entry. The **Action** column houses a button. When activated, a Python script is executed. This script retrieves the name from the corresponding row, transmits a predefined prompt to OpenAI with the name, and finally stores the response in the designated **meaning** field.
+
 
 ## Prerequisites
 - An active OpenAI account with an associated billing plan

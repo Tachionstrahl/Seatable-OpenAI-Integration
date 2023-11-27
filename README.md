@@ -26,7 +26,7 @@ Each row contains a unique **name** entry. The **Action** column houses a button
 - An OpenAI API Key, see [Account settings](https://platform.openai.com/account/api-keys)
 - An account with seatable.io 
 
-(Please be aware of potential rate limits depending on your billing plan)
+   (Pleasebe aware of potential rate limits depending on your billing plan)
 
 ## Getting Started
 1. Create a new Base on Seatable.io.
@@ -38,6 +38,8 @@ Each row contains a unique **name** entry. The **Action** column houses a button
    - **Action** (type: button, action: Execute the Python script)
 5. Press a button to automatically receive the meaning of the corresponding name.
 
+## Limitations
+The execution of python scripts within seatable.io has a time constraint. Because of that, more complex queries can cause a timeout. 
 ## Attribution
 - `bidirectional.png` by DinosoftLabs
 
